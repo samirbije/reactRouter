@@ -1,4 +1,4 @@
-var baseApiUrl = 'http://localhost/reactRouter';
+var baseApiUrl = 'http://localhost/reactRouter/backend';
 var baseAppUrl = 'http://localhost:3000/pages/article';
 var per_page = 5;
 function ajaxCall(url, method, data, onSuccessMethod, onFailMethod, ctype) {
