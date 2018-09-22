@@ -16,4 +16,4 @@ $ yarn run dev
 
 $ yarn start
 
-Once the server is running, you can visit http://localhost:3080/
+Once the server is running, you can visit http://localhost:3000/
