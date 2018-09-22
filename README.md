@@ -7,7 +7,7 @@ Please clone this project inside apache htdocs folder.
 
 RUNNING
 
-Install dependencies - Xampp and $ yarn 
+Install dependencies - XAMPP and $ yarn 
 
 Run Development servers:
 
