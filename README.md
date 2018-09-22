@@ -10,6 +10,8 @@ Fire up a development server:
 
 Run Apache and  mysql
 
+** Running Yarn **
+
 $ yarn install
 
 $ yarn run dev
