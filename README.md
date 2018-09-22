@@ -2,7 +2,7 @@ OVERVIEW
 
 This is a simple  to up and running for React Router projects. This is intended to provide:
 Backend rest full apis have been created uising php and folder contains backend .
-Please clone inside apache htdocs folder.  
+Please clone this project inside apache htdocs folder.  
 
 
 RUNNING
