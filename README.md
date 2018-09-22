@@ -1,7 +1,7 @@
 OVERVIEW
 
 This is a simple  to up and running for React Router projects.
-Backend rest full apis have been created uising php and backend folder name is  backend .
+Backend rest full apis have been developed uising php and all the backend codes are inside the backend folder .
 Please clone this project inside apache htdocs folder.  
 
 
