@@ -21,7 +21,7 @@ import "db_techtest.sql" file in your mysql
 
 $ yarn install
 
-$ yarn run dev
+$ yarn run build
 
 $ yarn start
 
