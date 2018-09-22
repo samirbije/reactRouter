@@ -8,7 +8,11 @@ Install dependencies - Xampp and $ yarn
 
 Fire up a development server:
 
-Run Apache and  mysql
+Start  Apache and  mysql
+
+Create database (db_techtest) in mysql 
+
+import "db_techtest.sql" file in your mysql
 
 ** Running Yarn **
 
