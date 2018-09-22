@@ -6,7 +6,7 @@ RUNNING
 
 Install dependencies - Xampp and $ yarn 
 
-Fire up a development server:
+Run Development servers:
 
 Start  Apache and  mysql
 
