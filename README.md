@@ -1,28 +1,35 @@
 OVERVIEW
 
-This is a simple  to up and running for React Router projects.
-Backend rest full apis have been developed uising php and all the backend codes are inside the backend folder .
-Please clone this project inside apache htdocs folder.  
+This is a simple mini blog(React Frontend Mini Project) developed based on the task requirements as follows.
+
+Task:
+As a technical assessment, we will request you to make a private mini-blog. literally, it is a very small blog that has only the following required CRUD features:
+•	Write an article
+•	List all articles that you wrote
+•	Read articles
+•	Update articles
+•	Delete articles
+
+Rather than using the fake REST API, I have developed a simple backend REST APIs using PHP,MySQL and front end parts have been fully coded using SPA framework,React. 
 
 
-RUNNING
+Installation Requirements.
 
-Install dependencies - XAMPP and $ yarn 
+1. Install Apache & MySQL(preferrably XAMPP/MAMP) and make sure it is up and running before running the app.
+2. Clone the project inside Apache htdocs folder.
+3. Create and Import the database(db_techtest.sql) into the MySQL.
+4. Install Yarn(Javascript Package Manager)
 
-Run Development servers:
+Running the app locally.
 
-Start  Apache and  mysql
+Note: Please make sure all above installation requirements are met for smooth running of the app.
 
-Create database (db_techtest) in mysql 
+1. Go to the project folder inside Apache htdocs folder.
+2. Run the command yarn install
+3. Run the command yarn run build
+4. Run the command yarn start.
+5. The application should automatically open a page at http://localhost:3000/ and should display the Search, the List and the option to add an article.
+6. Once the application is running, you can try adding an article, viewing in the list, searching and finally deleting as well.
 
-import "db_techtest.sql" file in your mysql
 
-** Running Yarn **
 
-$ yarn install
-
-$ yarn run build
-
-$ yarn start
-
-Once the server is running, you can visit http://localhost:3000/
