@@ -4,7 +4,7 @@ This is a simple starter to get you up and running for React Router projects. Th
 
 RUNNING
 
-Install dependencies  Xampp and $ yarn 
+Install dependencies - Xampp and $ yarn 
 
 Fire up a development server:
 
