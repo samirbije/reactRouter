@@ -106,8 +106,9 @@ class ArticleList extends Component {
        this.setState({page: page1});
    }
 	render(){
-		var data = this.state.articles;
-		let per_page = window.per_page;
+	var data = this.state.articles;
+	var newData = this.state.articles.concat([data]);  
+	let per_page = window.per_page;
         const pages = Math.ceil(this.state.articles.length/per_page);
         const current_page = this.state.page;
         const start_offset = (current_page-1)*per_page;
@@ -133,7 +134,7 @@ class ArticleList extends Component {
 					</tr>
 				</thead>
 				<tbody>
-					{data && data.length > 0 ? data.map((item, idx) => {
+					{newData && newData.length > 0 ? newData.map((item, idx) => {
 						if(idx >= start_offset && start_count<per_page){
 							start_count++;	
 						return (
