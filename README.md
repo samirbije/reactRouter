@@ -18,7 +18,8 @@ Installation Requirements.
 1. Install Apache & MySQL(preferrably XAMPP/MAMP) and make sure it is up and running before running the app.
 2. Clone the project inside Apache htdocs folder.
 3. Create and Import the database(db_techtest.sql) into the MySQL.
-4. Install Yarn(Javascript Package Manager)
+4. Please change the username and password for the imported database in backend/config/database.php file.
+5. Install Yarn(Javascript Package Manager)
 
 Running the app locally.
 
