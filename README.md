@@ -10,7 +10,7 @@ As a technical assessment, we will request you to make a private mini-blog. lite
 •	Update articles
 •	Delete articles
 
-Rather than using the fake REST API, I have developed a simple backend REST APIs using PHP,MySQL and front end parts have been fully coded using SPA framework,React. 
+Rather than using the fake REST API, I have developed a simple backend REST APIs using PHP,MySQL and front end parts have been fully coded using React. 
 
 
 Installation Requirements.
