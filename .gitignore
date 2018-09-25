@@ -1,3 +1,6 @@
+.*
+.gitignore
+
 ##.gitignore for  react
 build/
 node_modules/
