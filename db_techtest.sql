@@ -1,8 +1,10 @@
+
 /*
 SQLyog Enterprise - MySQL GUI v7.02 
 MySQL - 5.5.5-10.1.19-MariaDB : Database - db_techtest
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
