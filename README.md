@@ -1,5 +1,7 @@
 OVERVIEW
 
+ sam 
+ 
 This is a simple mini blog(React Frontend Mini Project) developed based on the task requirements as follows.
 
 Task:
